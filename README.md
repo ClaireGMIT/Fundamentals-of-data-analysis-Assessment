@@ -30,5 +30,5 @@ Wrote descriptions of the work done to date and an explanation for the results.
 Review of current status of project in conjunction with the feed back from Lecturer to identify any gaps. Provided further explanation of the Tips dataset including references.
 
 ### 6. Commit 24th November
-Worked again on the program. Had a problem with order of cells but used the internet (stackoverflow.com) to resolve issue (ie go to CELL then click RUN ALL).
+Worked again on the program. Had a problem with order of cells but used the internet (stackoverflow.com) to resolve issue (ie go to CELL then click RUN ALL). Worked at inserting image via the edit function in the toolbar.
 
