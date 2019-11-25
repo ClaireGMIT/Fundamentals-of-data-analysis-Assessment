@@ -32,3 +32,7 @@ Review of current status of project in conjunction with the feed back from Lectu
 ### 6. Commit 24th November
 Worked again on the program. Had a problem with order of cells but used the internet (stackoverflow.com) to resolve issue (ie go to CELL then click RUN ALL). Worked at inserting image via the edit function in the toolbar.
 
+### 7. Commit 25th November
+Worked again on the program. Used the "Pandas-with-Iris" sample Jupyter notebook from lectures to use as a template for my report. Tried to manipulate graphs using examples in references https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/ and https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+
+
