@@ -4,7 +4,9 @@ Assessment for the Fundamentals of Data Analysis course Sep/Oct/Nov 2019
 
 The aim of this project was to examine the "tips" dataset within a Jupyter notebook.
 
-The dataset was initially investigated for the descritive statistics and with corresponding plots.
+An explanation of the type of code and plots available in the Python program to interrogate the data is discussed with some examples.
+
+The dataset is then initially investigated for the descritive statistics and with corresponding plots.
 
 Then regression analysis was performed analysing the relationships between the total bill and the tip amount.
 
@@ -34,5 +36,8 @@ Worked again on the program. Had a problem with order of cells but used the inte
 
 ### 7. Commit 25th November
 Worked again on the program. Used the "Pandas-with-Iris" sample Jupyter notebook from lectures to use as a template for my report. Tried to manipulate graphs using examples in references https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/ and https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
+
+### 8. Commit 26th November
+Re-evaluated my notebook to ensure the remit of the assignment was fulflled. I realised i was explaining the theory and needed more of an analysis of the data.
 
 
