@@ -43,3 +43,5 @@ Re-evaluated my notebook to ensure the remit of the assignment was fulflled. I r
 ### 9. Commit 27th November 1
 Used week 9 lecture notes and notebook to do some predictions via SK learn.
 
+### 10. Commit 27th November 2
+Finalised the content of the report including a more in-depth analysis of the data. Added more references. Left to do is to finish formatting of the report, tidy up the content, finish off the readme file and re-read my analysis.
