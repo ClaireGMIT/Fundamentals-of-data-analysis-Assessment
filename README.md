@@ -38,6 +38,8 @@ Worked again on the program. Had a problem with order of cells but used the inte
 Worked again on the program. Used the "Pandas-with-Iris" sample Jupyter notebook from lectures to use as a template for my report. Tried to manipulate graphs using examples in references https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/ and https://towardsdatascience.com/analyze-the-data-through-data-visualization-using-seaborn-255e1cd3948e
 
 ### 8. Commit 26th November
-Re-evaluated my notebook to ensure the remit of the assignment was fulflled. I realised i was explaining the theory and needed more of an analysis of the data.
+Re-evaluated my notebook to ensure the remit of the assignment was fulflled. I realised i was explaining the theory and needed more of an analysis of the data. I began the process of explaining what the data was telling me using the full dataset. My next step will be to sub-divide based on time of day, day of the week etc.
 
+### 9. Commit 27th November 1
+Used week 9 lecture notes and notebook to do some predictions via SK learn.
 
