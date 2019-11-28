@@ -26,7 +26,7 @@ Next steps are to further deep dive into the data and begin interpreting the res
 Work performed on the dataset inclduing descriptive stats and plots.
 
 ### 4. Commit 13th November
-Wrote descriptions of the work done to date and an explanation for the results.
+Wrote descriptions of the work done to date and an explanation for the results. Images were added via the <insert image> option on the toolbar.
 
 ### 5. Commit 19th November
 Review of current status of project in conjunction with the feed back from Lecturer to identify any gaps. Provided further explanation of the Tips dataset including references.
@@ -45,3 +45,7 @@ Used week 9 lecture notes and notebook to do some predictions via SK learn.
 
 ### 10. Commit 27th November 2
 Finalised the content of the report including a more in-depth analysis of the data. Added more references. Left to do is to finish formatting of the report, tidy up the content, finish off the readme file and re-read my analysis.
+
+### 11. Commit 28Nov2019
+Continue to tidy up content and analyse the results.
+
